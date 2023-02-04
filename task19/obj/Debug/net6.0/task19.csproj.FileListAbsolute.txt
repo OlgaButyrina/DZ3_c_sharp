@@ -1,0 +1,15 @@
+D:\Ольга\учеба ИТ\c#\DZ3\task19\bin\Debug\net6.0\task19.exe
+D:\Ольга\учеба ИТ\c#\DZ3\task19\bin\Debug\net6.0\task19.deps.json
+D:\Ольга\учеба ИТ\c#\DZ3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+D:\Ольга\учеба ИТ\c#\DZ3\task19\bin\Debug\net6.0\task19.dll
+D:\Ольга\учеба ИТ\c#\DZ3\task19\bin\Debug\net6.0\task19.pdb
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.dll
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\refint\task19.dll
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.pdb
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+D:\Ольга\учеба ИТ\c#\DZ3\task19\obj\Debug\net6.0\ref\task19.dll
