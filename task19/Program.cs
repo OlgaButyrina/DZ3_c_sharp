@@ -1,22 +1,17 @@
-﻿System.Console.WriteLine("Напишите, пожалуйста, пятизначное число: ");
-string[] array = { Console.ReadLine() };
+﻿System.Console.WriteLine("Введите, пожалуйста, пятизначное число: ");
+string X = Console.ReadLine();
 
-int n = array.Length;
-int i = 0;
+int n = X.Length;
 
 if (n == 5)
 {
-    while (i<=n)
+    if (X[0] == X[4] || X[1] == X[3])
     {
-        if (array[0]==array[4] || array[1]==array[3])
-        {
-            System.Console.WriteLine("Введенное число является палиндромом");
-        }
-        else
-        {
-            System.Console.WriteLine("Введенное число не является палиндромом");
-        }
-    i++;
+        System.Console.WriteLine("Введенное число является палиндромом");
+    }
+    else
+    {
+        System.Console.WriteLine("Введенное число не является палиндромом");
     }
 }
 else
